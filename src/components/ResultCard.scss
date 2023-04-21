@@ -1,0 +1,13 @@
+.result-card{
+    border-radius: 15px;
+    width:30%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.result-card__content p{
+    color: #333;    
+}

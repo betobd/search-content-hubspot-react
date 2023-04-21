@@ -1,0 +1,18 @@
+.site-search-results{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 35px;
+    margin: 50px 0;
+}
+
+.site-search > h4,
+.site-search > h3{
+    color: white;
+    margin-top: 15px;
+}
+
+.btn-disabled{
+    opacity: 0.5;
+    pointer-events: none;
+}
